@@ -1,0 +1,6 @@
+[submodule "eliza-starter"]
+	path = eliza-starter
+	url = git@github.com:leejw51crypto/eliza-starter.git
+[submodule "eliza"]
+	path = eliza
+	url = git@github.com:leejw51crypto/eliza.git
